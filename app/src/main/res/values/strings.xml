@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFragmentBottomNavigation</string>
+    <string name="textcontact">Contacto</string>
+    <string name="textgallery">Galería</string>
+    <string name="texthome">Home</string>
+    <string name="textprofile">Perfíl</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
